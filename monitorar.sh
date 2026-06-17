@@ -3,4 +3,4 @@
 echo "Monitorando serviço..."
 
 # mais um commit no monitorar.sh
-# TODO: Implementar rotacao de log (Mover monitorar.log para monitorar.log.bak ao atingir 1MB)
+# TODO: Implementar rotacao de log (Mover monitorar.log para monitorar.log.bak ao atingir 1MB) Nivel de LOG DEBUG
