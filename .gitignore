@@ -1,0 +1,8 @@
+# Arquivos de backup gerados por "sed -i.bak" (V10)
+*.bak
+
+# Arquivos de configuracao local com credenciais
+.env
+
+# Lixo de sistema operacional
+.DS_Store
