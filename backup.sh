@@ -1,4 +1,5 @@
 #!/bin/bash
+# Este script realiza o backup dos arquivos do projeto-gridstart.
 # Exemplo de script de backup (Second Gear - Shell Script)
 # ajuste de permissao aplicado em hotfix
 
