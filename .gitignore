@@ -3,6 +3,13 @@
 
 # Arquivos de configuracao local com credenciais
 .env
+!.env.example
 
 # Lixo de sistema operacional
 .DS_Store
+
+#node_modules
+node_modules/
+
+#Arquivos de log
+*.log
